@@ -1,0 +1,43 @@
+.app {
+	margin: 0 auto;
+	width: 600px;
+	height: 600px;
+	border: gray solid 1px;
+}
+
+.field {
+	display: inline-block;
+	border: gray solid 2px;
+	width: 560px;
+	height: 560px;
+}
+
+.cell {
+	width: 70px;
+	height: 70px;
+	float: left;
+}
+
+.black {
+	background-color: black;
+}
+
+.symbolsX {
+	height: 15px;
+	padding-left: 50px;
+	width: 560px;
+	letter-spacing: 60px;
+}
+
+.symbolsY {
+	display: inline-block;
+	width: 10px;
+	line-height: 70px;
+}
+
+.centralSection {
+	height: 560px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+
+}
